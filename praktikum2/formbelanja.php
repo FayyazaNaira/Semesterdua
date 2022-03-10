@@ -18,7 +18,7 @@
     <a class="navbar-brand">Belanja Online</a>
   </div>
 </nav>
-<form action="form_belanja.php" method="POST">
+<form action="formbelanja.php" method="POST">
   <div class="form-group row">
     <label for="customer" class="col-4 col-form-label">Customer</label> 
     <div class="col-8">
